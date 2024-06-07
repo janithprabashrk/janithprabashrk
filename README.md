@@ -98,6 +98,7 @@
 </p>
 
 <h3 align="center">Tools:</h3>
+<p>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> 
   </a> 
@@ -119,6 +120,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janithprabashrk&show_icons=true&locale=en&layout=compact&theme=radical" alt="janithprabashrk" />
 </p>
