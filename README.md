@@ -9,15 +9,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=janithprabashrk&theme=algolia" alt="janithprabashrk" />
   </a> 
 </p>
-
+<hr/>
 - 🌱 I’m currently learning **Computer Science at University of Colombo School of Computing**
 
 - 💬 Ask me about **Java, C, C++, Python, React.js**
 
 - 📫 How to reach me **janihtprabash944ugc@gmail.com**
 <br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+FR+Moderne&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&height=100&lines=Connect+with+me%3A" alt="Typing SVG" /></a>
+<hr/>
+<a href="https://git.io/typing-svg" style="display: block; text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Playwrite+FR+Moderne&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&height=100&lines=Connect+with+me%3A" alt="Typing SVG" style="display: block; margin: auto;">
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janith-prabash-kashmira-r-k-186748284/" target="blank">
@@ -55,14 +57,22 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-
-
 <br>
 <h3 align="center">Tools:</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,photoshop,aftereffects" alt="Skills Icons">
 </div>
 <br>
+<hr/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janithprabashrk&show_icons=true&locale=en&layout=compact&theme=radical" alt="janithprabashrk" />
 </p>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
