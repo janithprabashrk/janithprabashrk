@@ -10,7 +10,7 @@
   </a> 
 </p>
 <hr/>
-- 🌱 I’m currently learning **Computer Science at University of Colombo School of Computing**
+- 🌱 I’m currently learning Computer Science at University of Colombo School of Computing
 
 - 💬 Ask me about **Java, C, C++, Python, React.js**
 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/janith-prabash-kashmira-r-k-186748284/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>    
-  <a href="https://fb.com/janith-prabash-djk-(djk)" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=61553903355509" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
   </a>    
   <a href="https://instagram.com/_janith_djk_" target="blank">
