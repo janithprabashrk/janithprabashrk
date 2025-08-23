@@ -22,7 +22,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janith-prabash-kashmira-r-k-186748284/" target="blank">
+  <a href="www.linkedin.com/in/janithrk" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>    
   <a href="https://www.facebook.com/profile.php?id=61553903355509" target="blank">
@@ -31,7 +31,7 @@
   <a href="https://instagram.com/_janith_djk_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>    
-  <a href="https://www.youtube.com/c/djk-studios" target="blank">
+  <a href="https://www.youtube.com/channel/UCILNa29VYZpBZO52ONU0dyQ" target="blank">
     <img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="YouTube" height="50" width="50" />
   </a>    
   <a href="https://www.hackerrank.com/janithprabash941" target="blank">
