@@ -1,4 +1,4 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=22F700&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+R.K.+Janith+Prabash+Kashmira;From+Matara%2C+Sri+Lanka;(UG)+University+of+Colombo+School+Of+;Computing" alt="Typing SVG" /></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=22F700&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+R.K.+Janith+Prabhash+Kashmira;From+Matara%2C+Sri+Lanka;(UG)+University+of+Colombo+School+Of+;Computing" alt="Typing SVG" /></h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=janithprabashrk&label=Profile%20views&color=0e75b6&style=flat" alt="janithprabashrk" /> 
@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=janithprabashrk&theme=algolia" alt="janithprabashrk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=janithprabashrk-ma&theme=algolia" alt="janithprabashrk" />
   </a> 
 </p>
 <hr/>
