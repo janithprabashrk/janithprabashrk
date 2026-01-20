@@ -153,7 +153,7 @@ Interactive space education platform with live streaming capabilities and compre
 </div>
 
 <p align="center">
-  <a href="https://tinyurl.com/2jd897p7" target="_blank">
+  <a href="https://janith-prabhash-portfolio.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="50" width="50" style="margin:10px; border-radius:10px; border:2px solid #22F700;" />
   </a>
   <a href="https://www.linkedin.com/in/janithrk" target="_blank">
